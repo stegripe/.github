@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rahagia/.github/main/images/rahagia.png" width="175">
   <h2>Rumah Bahagia (Rahagia)</h2>
-  <p>Hanya sebuah perkumpulan kecil di Discord. Udah gitu aja.</p>
-  <i>Just a small society on Discord. That's all.</i>
+  <p>Hanya sebuah perkumpulan kecil di Discord, udah gitu aja.</p>
 </div>
 
 <hr />
 
-### Discord Server
-<p>Untuk sekarang, kami tidak berencana untuk mempublikasikan server Discord kami (keputusan ini dapat berubah)</p>
-<i>For now, We're not planning to publish our Discord server (this decision may change)</i>
+### Get A Support / Contact
+<p>We don't have a Discord server, seriously. If you need hand, you can just open an issue into the project.</p>
