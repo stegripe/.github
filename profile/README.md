@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rahagia/.github/main/images/rahagia.png" width="175">
-  <h2>Rumah Bahagia (Rahagia)</h2>
-  <p>Hanya sebuah perkumpulan kecil di Discord, udah gitu aja.</p>
+  <img src="https://api.cyteliz.net/assets/images/logo.png" width="175">
+  <h2>Cyteliz</h2>
+  <p>A place where you can enjoy chatting without worrying about others behaviour.</p>
 </div>
 
 <hr />
 
-### Get A Support / Contact
-<p>We don't have a Discord server, seriously. If you need hand, you can just open an issue into the project.</p>
+### Community Team
+- Mozart Rafi Kurniawan (Founder, Proficient) [@mzrtamp](https://github.com/mzrtamp) | E-mail: mozartrafi@cyteliz.net | Discord: mozartrafi#7174
+- Ahmad "Mednoob" Yaqdhan (Proficient) [@Mednoob](https://github.com/Mednoob) | E-mail: med@cyteliz.net | Discord: Med#0637
+- "Tiramitzu" (Proficient) [@Tiramitzu](https://github.com/Tiramitzu) | E-mail: tira@cyteliz.net | Discord: Tiramitzu#2853
+- "H29id" (Proficient) [@H29id](https://github.com/H29id) | E-mail: h29id@cyteliz.net | Discord: H29id#4352
+- Orchitiadi Ismaulana Putra (Member) [@noxzym](https://github.com/noxzym) | E-mail: orchit@cyteliz.net | Discord: MaaKoo#9069
+- Fabio Mahardika Putra Juan (Member) [@Fab1o0107](https://github.com/Fab1o0107) | E-mail: fabio@cyteliz.net | Discord: Fabio0107#0778
+- "DustyGanteng" (Member) [@DustyGanteng](https://github.com/DustyGanteng) | E-mail: dusty@cyteliz.net | Discord: DustyGanteng#3993
+
+### Reach Us
+<p>Join us on <a href="https://cyteliz.net/discord">Discord</a> if you got any problems or questions about our freaky project.</p>
