@@ -7,14 +7,16 @@
 <hr />
 
 ### Community Team
-- Mozart Rafi Kurniawan (Founder, Proficient) [@mzrtamp](https://github.com/mzrtamp) | E-mail: mozartrafi@cyteliz.net | Discord: mozartrafi#7174
-- Ahmad "Mednoob" Yaqdhan (Proficient) [@Mednoob](https://github.com/Mednoob) | E-mail: med@cyteliz.net | Discord: Med#0637
-- "Tiramitzu" (Proficient) [@Tiramitzu](https://github.com/Tiramitzu) | E-mail: tira@cyteliz.net | Discord: Tiramitzu#2853
-- "H29id" (Proficient) [@H29id](https://github.com/H29id) | E-mail: h29id@cyteliz.net | Discord: H29id#4352
-- Orchitiadi Ismaulana Putra (Proficient) [@noxzym](https://github.com/noxzym) | E-mail: orchit@cyteliz.net | Discord: MaaKoo#9069
-- Fabio Mahardika Putra Juan (Member) [@Fab1o0107](https://github.com/Fab1o0107) | E-mail: fabio@cyteliz.net | Discord: Fabio0107#0778
-- Rasyad Satyatama (Member) [@PikaProgram](https://github.com/PikaProgram) | E-mail: pika@cyteliz.net | Discord: LiroSphere#2488
-- "DustyGanteng" (Member) [@DustyGanteng](https://github.com/DustyGanteng) | E-mail: dusty@cyteliz.net | Discord: DustyGanteng#3993
+| Name                        | GitHub                                            | Role                | E-mail                  | Discord           |
+| --------------------------- | ------------------------------------------------- | ------------------- | ----------------------- | ----------------- |
+| Mozart Rafi Kurniawan       | [@mzrtamp](https://github.com/mzrtamp)            | Founder, Proficient | mozartrafi@cyteliz.net  | mozartrafi#7174   |
+| Ahmad Yaqdhan               | [@Mednoob](https://github.com/Mednoob)            | Proficient          | med@cyteliz.net         | Med#0637          |
+| "Tiramitzu"                 | [@Tiramitzu](https://github.com/Tiramitzu)        | Proficient          | tira@cyteliz.net        | Tiramitzu#2853    |
+| "H29id"                     | [@H29id](https://github.com/H29id)                | Proficient          | h29id@cyteliz.net       | H29id#4352        |
+| Orchitiadi Ismaulana Putra  | [@noxzym](https://github.com/noxzym)              | Proficient          | orchit@cyteliz.net      | MaaKoo#9069       |
+| Fabio Mahardika Putra Juan  | [@Fab1o0107](https://github.com/Fab1o0107)        | Member              | fabio@cyteliz.net       | Fabio0107#0778    |
+| Rasyad Satyatama            | [@PikaProgram](https://github.com/PikaProgram)    | Member              | pika@cyteliz.net        | LiroSphere#2488   |
+| "DustyGanteng"              | [@DustyGanteng](https://github.com/DustyGanteng)  | Member              | dusty@cyteliz.net       | DustyGanteng#3993 |
 
 ### Reach Us
 <p>Join us on <a href="https://cyteliz.net/discord">Discord</a> if you got any problems or questions about our freaky project, we got nothing to do here.</p>
