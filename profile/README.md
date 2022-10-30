@@ -9,7 +9,6 @@
 ### Community Team List (sorted alphabetically)
 | Name                        | GitHub                                            | Role                | E-mail                  | Discord           |
 | --------------------------- | ------------------------------------------------- | ------------------- | ----------------------- | ----------------- |
-| "DustyGanteng"              | [@DustyGanteng](https://github.com/DustyGanteng)  | Member              | dusty@clytage.org       | DustyGanteng#3993 |
 | "H29id"                     | [@H29id](https://github.com/H29id)                | Member              | h29id@clytage.org       | H29id#0217        |
 | "Hazuki Tanaka"             | [@Devstore120](https://github.com/Devstore120)    | Member              | hazuki@clytage.org      | Rin Okumura#8674  |
 | "MichiUwU"                  | [@MichiUwU](https://github.com/michiuwu)          | Member              | michi@clytage.org       | Michi#9039        |
@@ -20,4 +19,4 @@
 | Orchitiadi Ismaulana Putra  | [@noxzym](https://github.com/noxzym)              | Member              | orchit@clytage.org      | MaaKoo#9069       |
 
 ### Reach Us
-<p>Join us on <a href="https://clytage.org/discord">Discord</a> if you got any problems or questions about our freaky project, we got nothing to do here.</p>
+<p>Join us on <a href="https://clytage.org/discord">Discord</a> if you got any problems or questions about our freaky projects, we got nothing to do here.</p>
