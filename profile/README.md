@@ -9,7 +9,7 @@
 ### Community Team List (sorted alphabetically)
 | Name                        | GitHub                                            | Role                | E-mail                  | Discord           |
 | --------------------------- | ------------------------------------------------- | ------------------- | ----------------------- | ----------------- |
-| "Tiramitzu"                 | [@Tiramitzu](https://github.com/Tiramitzu)        | Member              | tira@clytage.org        | Tiramitzu#2853    |
+| "Tiramitzu"                 | [@Tiramitzu](https://github.com/Tiramitzu)        | Developer           | tira@clytage.org        | Tiramitzu#2853    |
 | Ahmad Yaqdhan               | [@Mednoob](https://github.com/Mednoob)            | Developer           | med@clytage.org         | Med#0637          |
 | Antonius Ongky              | [@73u38](https://github.com/73u38)                | Member              | ongky@clytage.org       | ChengXiao#9861    |
 | Fabio Mahardika Putra Juan  | [@Fab1o0107](https://github.com/Fab1o0107)        | Developer           | fabio@clytage.org       | Fabio0107#0778    |
