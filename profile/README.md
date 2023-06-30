@@ -10,7 +10,7 @@
 | Name                             | Role            | E-mail                 | GitHub                                       | Discord     |
 |----------------------------------|-----------------|------------------------|----------------------------------------------|-------------|
 | Mozart Rafi Kurniawan Tampubolon | Founder, Leader | mozartrafi@clytage.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
-| Hereza Liem                      | Co-Founder      | eririn07@clytage.org   | [@Eririn07](https://github.com/Eririn07)     | eririn07    |
+| Hereza Liem                      | Co-founder      | eririn07@clytage.org   | [@Eririn07](https://github.com/Eririn07)     | eririn07    |
 | "Tiramitzu"                      | Developer       | tira@clytage.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
 | Fabio Mahardika Putra Juan       | Developer       | fabio@clytage.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
 | "Zen Shibata"                    | Developer       | zen@clytage.org        | [@ZenShibata](https://github.com/ZenShibata) | senomarseno |
