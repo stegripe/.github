@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://api.clytage.org/assets/images/logo.png" width="135">
+    <img src="https://cdn.clytage.org/images/logo.png" width="135">
     <h2>Clytage</h2>
     <p>A perfunctory non-profit community that doesn't prioritize formality.</p>
 </div>
