@@ -11,10 +11,10 @@
 |----------------------------------|-----------------|------------------------|----------------------------------------------|-------------|
 | Mozart Rafi Kurniawan Tampubolon | Founder, Leader | mozartrafi@clytage.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
 | Hereza Liem                      | Co-founder      | eririn07@clytage.org   | [@Eririn07](https://github.com/Eririn07)     | eririn07    |
-| "Zen Shibata"                    | Head Developer  | zen@clytage.org        | [@ZenShibata](https://github.com/ZenShibata) | senomarseno |
-| "Tiramitzu"                      | Developer       | tira@clytage.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
+| Syah Warid Ghani Akram           | Developer       | tira@clytage.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
 | Fabio Mahardika Putra Juan       | Developer       | fabio@clytage.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
 | Orchitiadi Ismaulana Putra       | Developer       | orchit@clytage.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
+| Taufiqurahman                    | Developer       | dlands@clytage.org     | [@DLandDS](https://github.com/DLandDS)       | dlands_     |
 | Ahmad Yaqdhan                    | Member          | med@clytage.org        | [@Mednoob](https://github.com/Mednoob)       | mednoob     |
 | Antonius Ongky                   | Member          | ongky@clytage.org      | [@73u38](https://github.com/73u38)           | chengxiao   |
 
