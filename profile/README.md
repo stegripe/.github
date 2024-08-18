@@ -11,7 +11,6 @@
 |----------------------------------|-----------------|-------------------------|----------------------------------------------|-------------|
 | Mozart Rafi Kurniawan Tampubolon | Community Lead  | mozartrafi@stegripe.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
 | Syah Warid Ghani Akram           | Developer       | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
-| Ahmad Yaqdhan                    | Developer       | med@stegripe.org        | [@Mednoob](https://github.com/Mednoob)       | mednoob     |
 | Orchitiadi Ismaulana Putra       | Developer       | orchit@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
 | Fabio Mahardika Putra Juan       | Developer       | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
 | Taufiqurahman                    | Developer       | ftagame@stegripe.org    | [@DLandDS](https://github.com/DLandDS)       | dlands_     |
