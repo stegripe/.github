@@ -13,7 +13,7 @@
 | Syah Warid Ghani Akram           | Developer       | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
 | Orchitiadi Ismaulana Putra       | Developer       | orchit@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
 | Fabio Mahardika Putra Juan       | Developer       | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
-| Taufiqurahman                    | Developer       | ftagame@stegripe.org    | [@DLandDS](https://github.com/DLandDS)       | dlands_     |
+| Taufiqurahman, S.Kom             | Developer       | ftagame@stegripe.org    | [@DLandDS](https://github.com/DLandDS)       | dlands_     |
 
 ### Reach Us
 <p>Join us on <a href="https://stegripe.org/discord">Discord</a> if you got any problems or questions about our freaky projects, and we got nothing to do here.</p>
