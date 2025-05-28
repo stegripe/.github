@@ -10,9 +10,9 @@
 | Name                             | Title                | E-mail                  | GitHub                                       | Discord     |
 |----------------------------------|----------------------|-------------------------|----------------------------------------------|-------------|
 | Mozart Rafi Kurniawan Tampubolon | Overall Leader       | mozartrafi@stegripe.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
-| Syah Warid Ghani Akram           | Prod/Proj Developer  | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
-| Orchitiadi Ismaulana Putra       | Prod/Proj Developer  | noxzym@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
 | Fabio Mahardika Putra Juan       | Production Developer | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
+| Syah Warid Ghani Akram           | Project Developer    | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
+| Orchitiadi Ismaulana Putra       | Project Developer    | noxzym@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
 | Taufiqurahman, S.Kom             | Minecraft Developer  | ftagame@stegripe.org    | [@DLandDS](https://github.com/DLandDS)       | dlands_     |
 
 ### Reach Us
