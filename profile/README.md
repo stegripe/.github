@@ -9,10 +9,10 @@
 ### Active Developer Members
 | Name                             | Title                | E-mail                  | GitHub                                       | Discord     |
 |----------------------------------|----------------------|-------------------------|----------------------------------------------|-------------|
-| Mozart Rafi Kurniawan Tampubolon | Overall Leader       | mozartrafi@stegripe.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
-| Fabio Mahardika Putra Juan       | Production Developer | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
-| Alldreno Hosea Perangin Angin    | Minecraft Developer  | hosea@stegripe.org      | [@sayahosea](https://github.com/sayahosea)   | h29id     |
+| Mozart Rafi Kurniawan Tampubolon | Production Developer | mozartrafi@stegripe.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
 | Syah Warid Ghani Akram           | Project Developer    | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
+| Alldreno Hosea Perangin Angin    | Minecraft Developer  | hosea@stegripe.org      | [@sayahosea](https://github.com/sayahosea)   | h29id       |
+| Fabio Mahardika Putra Juan       | Production Developer | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
 | Orchitiadi Ismaulana Putra       | Project Developer    | noxzym@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
 
 ### Reach Us
