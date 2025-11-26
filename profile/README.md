@@ -6,13 +6,5 @@
 
 <hr />
 
-### Active Developer Members
-| Name                             | Title                | E-mail                  | GitHub                                       | Discord     |
-|----------------------------------|----------------------|-------------------------|----------------------------------------------|-------------|
-| Mozart Rafi Kurniawan Tampubolon | Production Developer | mozartrafi@stegripe.org | [@mzrtamp](https://github.com/mzrtamp)       | mozartrafi  |
-| Syah Warid Ghani Akram           | Project Developer    | tira@stegripe.org       | [@Tiramitzu](https://github.com/Tiramitzu)   | tiramitzu   |
-| Orchitiadi Ismaulana Putra       | Project Developer    | noxzym@stegripe.org     | [@noxzym](https://github.com/noxzym)         | noxzym      |
-| Fabio Mahardika Putra Juan       | Production Developer | fabio@stegripe.org      | [@Fab1o0107](https://github.com/Fab1o0107)   | fab1o.fx    |
-
 ### Reach Us
-<p>Join us on <a href="https://stegripe.org/discord">Discord</a> if you got any problems or questions about our freaky projects, and we got nothing to do here.</p>
+<p>Join us on <a href="https://stegripe.org/discord">Discord</a> if you got any problems or questions about our <i>freaky ahh</i> projects, because we got nothing to do here.</p>
