@@ -7,4 +7,4 @@
 <hr />
 
 ### Reach Us
-<p>Join us on <a href="https://stegripe.org/discord">Discord</a> if you got any problems or questions about our <i>freaky ahh</i> projects, because we got nothing to do here.</p>
+<p>Join us on <a href="https://stegripe.org/discord">Discord</a> if you got any problems or questions about our <i>freaky</i> projects, because we got nothing to do here.</p>
